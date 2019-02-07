@@ -1,5 +1,6 @@
 # general configuration
-url: http://excentris.net
+# url: http://excentris.net
+url: 
 baseurl: ''
 
 # compass configuration
